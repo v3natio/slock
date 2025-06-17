@@ -1,4 +1,4 @@
-# Simple X Locker ![slock](https://img.shields.io/static/v1?label=st&message=1.5&color=blue&style=flat-square)
+# Simple X Locker ![slock](https://img.shields.io/static/v1?label=slock&message=1.5&color=blue&style=flat-square)
 
 `slock` is the simple screen locker utility for X.
 
