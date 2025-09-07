@@ -8,6 +8,7 @@ The upstream development for `slock` can be found [here](https://git.suckless.or
 
 # Patches
 
+- [pam](https://tools.suckless.org/slock/patches/pam_auth/)
 - [xresources](https://tools.suckless.org/slock/patches/xresources/)
 
 # Install

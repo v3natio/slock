@@ -2,11 +2,15 @@
 static const char *user  = "nobody";
 static const char *group = "nogroup";
 
+/* PAM service that's used for authentication */
+static const char* pam_service = "login";
+
 static const char *colorname[NUMCOLS] = {
 	[INIT] = "black",       /* after initialization */
 	[INPUT] = "#005577",    /* during input */
 	[FAILED] = "#CC3333",   /* wrong password */
   //[CAPS] = "red",         /* CapsLock on */
+  [PAM] = "#9400D3",      /* waiting for PAM */
 };
 
 /*
